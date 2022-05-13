@@ -14,7 +14,8 @@
 
 
 .nav-item{
- margin-left: 10%;
+ padding: 0 10%;
+ font-size: larger;
 }
 
 
@@ -33,6 +34,7 @@ h1{
 
 #phone{
     transform: rotate(25deg);
+    padding-left: 15%;
 }
 
 #title{
