@@ -81,12 +81,15 @@ h2{
     margin: 20px 20px 50px;
 }
 
+.pricing-col{
+    padding: 3% 2%;
+}
+
 .testimonial-img{
     margin: 20px;
     width: 10%;
     border-radius: 50%;
 }
-
 
 
 #phone{
@@ -102,6 +105,12 @@ h2{
     padding-bottom: 3%;
 
 }
+
+#pricing{
+    padding: 10%;
+    text-align: center;
+}
+
 
 #testimonials{
     background-color: #ef8172;
