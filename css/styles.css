@@ -23,7 +23,7 @@ h2{
 }
 
 .container-fluid{
-    padding: 5% 15%;
+    padding: 3% 15% 7%;
     overflow: hidden;
 }
 
@@ -44,8 +44,10 @@ h2{
  }
 
 .feature-container{
+    background-color: white;
     padding: 10% 5%;
     text-align: center;
+    position: relative;
 }
 
 .feature-icons{
@@ -93,10 +95,10 @@ h2{
 
 
 #phone{
+    position: absolute;
+    right: 30px;
     transform: rotate(25deg);
-    padding-left: 15%;
     width: 80%;
-
 }
 
 #press{
