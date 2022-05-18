@@ -12,6 +12,8 @@ h1{
     color: white;
 }
 
+
+
 h2{
     font-family: 'Montserrat';
     font-size: 2.5rem;
@@ -93,13 +95,13 @@ h2{
     border-radius: 50%;
 }
 
-
 #phone{
     position: absolute;
     right: 30px;
     transform: rotate(25deg);
-    width: 80%;
+    width: 70%;
 }
+
 
 #press{
     background-color: #ef8172;
@@ -125,3 +127,13 @@ h2{
 }
 
 
+@media (max-width:1028px) {
+    #phone{
+        position: static;
+        transform: rotate(0);
+    }
+    
+    #title{
+        text-align: center;
+    }
+}
