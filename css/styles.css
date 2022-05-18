@@ -1,3 +1,9 @@
+a{
+    color: black;
+    text-decoration: none;
+}
+
+
 body{
     font-family: 'Montserrat';
 }
@@ -62,6 +68,16 @@ h2{
     color: #ff4c68;
 }
 
+.footer-icon{
+   margin: 15px;
+}
+
+.footer-icons{
+    margin-bottom: 2%;
+   
+}
+
+
 
 .navbar{
     padding:0 0 8%;
@@ -106,6 +122,18 @@ h2{
     font-size: 3.5rem;
     font-weight: 900;
     color: white;
+}
+
+#footer{
+    padding: 5% 15% 2%;
+    text-align: center;
+}
+
+#footer p{
+    font-family: 'Montserrat';
+    color: #8f8f8f;
+    font-size: xx-large;
+    font-weight: 100;
 }
 
 #phone{
